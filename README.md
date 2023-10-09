@@ -1,4 +1,4 @@
-# Task Tracking System - Node.js & MySQL
+# API Task Tracking System - Node.js & MySQL with API
 
 This project is a simple task management system built with Node.js and MySQL. 
 It includes CRUD operations for managing tasks and provides task metrics. You can set up and run the project either manually or using Docker.
